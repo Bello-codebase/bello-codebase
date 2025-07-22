@@ -111,6 +111,14 @@ Thank you for visiting my profile. Whether you are a fellow industry professiona
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bello-ibrahm/bello-ibrahm/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ### 🚀 Featured Projects
 
 - 🧠 [Laravel Quiz System](https://an-nur-info-tech.com/quizzes): Quiz per page, session answers, live scoring
