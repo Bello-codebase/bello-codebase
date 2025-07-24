@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bello Ibrahim</h1>
-<h3 align="center">Founder of An-Nur Info-Tech | Software Engineer & IT Manager @ Crest-Agro Products ltd. | Tech Passionate</h3>
+<h3 align="center">Founder of An-Nur Info-Tech | Software Engineer </h3>
 
 <p align="">
   <a href="https://github.com/bello-ibrahm">
@@ -30,7 +30,7 @@ I strongly believe in the power of collaboration and teamwork. Whether you're in
 Thank you for visiting my profile. Whether you are a fellow industry professional, a hiring manager, or simply someone passionate about technology, I welcome the opportunity to connect and engage in meaningful conversations. Together, let's shape the future with cutting-edge technology.
 </p>
 
-📬 Reach me: **b.ibrahim@an-nur-info-tech.com**
+Visit my <a href="https://portfolio.an-nur-info-tech.com/"> Portfolio 🚀 </a>
 
 ---
 
