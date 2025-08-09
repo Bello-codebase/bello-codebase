@@ -28,9 +28,6 @@ Passionate about continuous learning and innovation, I stay current with evolvin
 I’m also a strong advocate for collaboration and knowledge sharing-actively engaging with peers to explore ideas, share insights, and foster innovation in the tech community.
 
 Let’s connect to discuss software development, IT systems, or potential collaborations. Together, we can build forward-thinking solutions that shape the future of technology.
-
-with ❤️
-Bello Ibrahim
 </p>
 
 Visit my <a href="https://portfolio.an-nur-info-tech.com/"> Portfolio 🚀 </a>
