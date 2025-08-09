@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bello Ibrahim</h1>
-<h3 align="center">Founder of An-Nur Info-Tech | Software Engineer </h3>
+<h3 align="center">Founder of An-Nur Info-Tech | IT Support Specialist | Software Engineer </h3>
 
 <p align="">
   <a href="https://github.com/bello-ibrahm">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=false&width=1000&height=60&lines=Seasoned+IT+Professional+|+Founder+of+An-Nur+Info-Tech!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=false&width=1000&height=60&lines=Passionate+Software+Engineer+|+Founder+of+An-Nur+Info-Tech!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,13 +21,16 @@
 
 ### 🔥 About Me
 <p>
-A seasoned IT professional with a degree in Computer Science. I have successfully collaborated with various organizations to drive digital transformation and IT automation, optimizing end-to-end business operations. My expertise lies in leveraging technology to solve complex challenges and deliver tangible results.
+Experienced IT professional with a background in Computer Science and a proven track record of driving digital transformation and IT automation across diverse organizations. Skilled in leveraging technologies such as C, Python, MySQL, PHP, and JavaScript to solve complex business challenges and optimize operational efficiency.
 
-As technology continues to evolve, I am committed to staying ahead of the curve. I actively pursue learning opportunities on top-tier platforms to expand my skill set and explore emerging technologies such as C, Python, MySQL, PHP, JavaScript, and more.
+Passionate about continuous learning and innovation, I stay current with evolving tech trends through top-tier platforms and hands-on projects. Whether developing robust backend systems or delivering seamless tech support, I aim to create impactful and scalable solutions that deliver real business value.
 
-I strongly believe in the power of collaboration and teamwork. Whether you're interested in discussing software development, Tech support, sharing insights, or exploring potential partnerships, I am open to connecting. Let's inspire and learn from each other to create innovative solutions and drive progress.
+I’m also a strong advocate for collaboration and knowledge sharing-actively engaging with peers to explore ideas, share insights, and foster innovation in the tech community.
 
-Thank you for visiting my profile. Whether you are a fellow industry professional, a hiring manager, or simply someone passionate about technology, I welcome the opportunity to connect and engage in meaningful conversations. Together, let's shape the future with cutting-edge technology.
+Let’s connect to discuss software development, IT systems, or potential collaborations. Together, we can build forward-thinking solutions that shape the future of technology.
+
+with ❤️
+Bello Ibrahim
 </p>
 
 Visit my <a href="https://portfolio.an-nur-info-tech.com/"> Portfolio 🚀 </a>
