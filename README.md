@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bello Ibrahim</h1>
-<h3 align="center">Founder of An-Nur Info-Tech | IT Support Specialist | Software Engineer </h3>
+<h3 align="center"> Software Engineer | IT Support Specialist </h3>
 
 <p align="">
   <a href="https://github.com/bello-ibrahm">
