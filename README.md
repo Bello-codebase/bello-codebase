@@ -162,4 +162,4 @@ Visit my <a href="https://portfolio.an-nur-info-tech.com/"> Portfolio 🚀 </a>
 
 ---
 
-<p align="center">💻 Built with ❤️ by <b>Bello Ibrahim</b> | All rights reserved © 2025</p>
+<p align="center">💻 Built with ❤️ by <b>Bello Ibrahim</b> | All rights reserved © 2026</p>
