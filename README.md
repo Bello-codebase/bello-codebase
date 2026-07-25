@@ -114,7 +114,7 @@ Visit my <a href="https://portfolio.an-nur-info-tech.com/"> Portfolio 🚀 </a>
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bello-codebase/bello-ibrahm/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/bello-codebase/bello-codebase/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
