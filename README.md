@@ -2,16 +2,16 @@
 <h3 align="center"> Software Engineer | IT Support Specialist </h3>
 
 <p align="">
-  <a href="https://github.com/bello-ibrahm">
+  <a href="https://github.com/bello-codebase">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=false&width=1000&height=60&lines=Passionate+Software+Engineer+|+Founder+of+An-Nur+Info-Tech!" alt="Typing SVG" />
   </a>
 </p>
 
----
+--- 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bello-ibrahm&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/bello-ibrahm?tab=followers"><img src="https://img.shields.io/github/followers/bello-ibrahm?label=Followers&style=social" alt="GitHub Followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=bello-codebase&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/bello-codebase?tab=followers"><img src="https://img.shields.io/github/followers/bello-codebase?label=Followers&style=social" alt="GitHub Followers"></a>
   <a href="https://an-nur-info-tech.com"><img src="https://img.shields.io/badge/Website-An--Nur--Info--Tech-blue?style=flat-square&logo=google-chrome" alt="Website" /></a>
   <!-- <a href="https://twitter.com/an_nur_info_tech"><img src="https://img.shields.io/twitter/follow/an_nur_info_tech?style=social" alt="Twitter Follow"></a> -->
 
@@ -84,7 +84,7 @@ Visit my <a href="https://portfolio.an-nur-info-tech.com/"> Portfolio 🚀 </a>
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bello-ibrahm&theme=radical&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bello-codebase&theme=radical&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -92,12 +92,12 @@ Visit my <a href="https://portfolio.an-nur-info-tech.com/"> Portfolio 🚀 </a>
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bello-ibrahm&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=bello-ibrahm&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bello-codebase&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=bello-codebase&theme=radical&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bello-ibrahm&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bello-codebase&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
@@ -105,8 +105,8 @@ Visit my <a href="https://portfolio.an-nur-info-tech.com/"> Portfolio 🚀 </a>
 ### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bello-ibrahm&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-      <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=bello-ibrahm" alt="GitHub Activity Graph"> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bello-codebase&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+      <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=bello-codebase" alt="GitHub Activity Graph"> -->
 </p>
 
 ---
@@ -114,7 +114,7 @@ Visit my <a href="https://portfolio.an-nur-info-tech.com/"> Portfolio 🚀 </a>
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bello-ibrahm/bello-ibrahm/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/bello-codebase/bello-ibrahm/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
